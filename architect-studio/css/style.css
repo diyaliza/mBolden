@@ -733,7 +733,7 @@ header .main-navigation nav .navbar-nav .nav-item .nav-link.active span{
     top: 0;
     bottom: 0;
     /*background: rgba(247, 28, 82, 0.6);*/
-    background-image: url("../img/side-menu.jpg");
+    /* background-image: url("../img/side-menu.jpg"); */
     background-size: cover;
     background-position: center;
     z-index: 2032;
@@ -1727,6 +1727,7 @@ header .main-navigation nav .navbar-nav .nav-item .nav-link.active span{
     height: 100px;
     width: 100px;
     border-radius: 50%;
+    background-color: white;
     display: inline-block;
     margin-bottom: 20px;
     margin-top: 10px;
